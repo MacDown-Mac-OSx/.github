@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://macdown.uranusjr.com/static/images/logo.png" width="200" alt="MacDown macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/MacDown">
+ <a href="https://gnomik-gomik-apps.github.io/.github/MacDown">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open MacDown macOS page">
  </a><br><br>
  <div align="center">
